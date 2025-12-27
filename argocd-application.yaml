@@ -9,7 +9,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/cameljava/phpk8s_helm.git  # Update with your Git repository URL
+    repoURL: https://github.com/cameljava/phpk8s_helm
     targetRevision: HEAD
     path: deploy
     helm:
